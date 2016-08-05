@@ -1,19 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<title>Document Builder</title>
-<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
-<link rel="stylesheet" href="bower_components/fontawesome/css/font-awesome.min.css">
-<link rel="stylesheet" href="bower_components/chartist/dist/chartist.min.css">
-<link rel="stylesheet" href="css/main.css">
-<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
-<script type="text/javascript" src="bower_components/chartist/dist/chartist.min.js"></script>
-<script type="text/javascript" src="bower_components/chartist-plugin-pointlabels/dist/chartist-plugin-pointlabels.js"></script>
-<script type="text/javascript" src="bower_components/chartist-plugin-axistitle/dist/chartist-plugin-axistitle.min.js"></script>
-<script type="text/javascript" src="js/main.js"></script>
-</head>
-<body>
 <div class="wrapper row">
   <div class="left-col col-xs-4">
     <div class="name-info">
@@ -93,6 +77,3 @@
     </div>
   </div>
 </div>
-
-</body>
-</html>
