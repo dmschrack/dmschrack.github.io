@@ -33,7 +33,7 @@ var config = {
   experiences: [
     {
       companyName: "SlingTV",
-      companyImage: "http://goo.gl/Qwqey4",
+      companyImage: "images/sling.png",
       position: "Senior Software Developer",
       timeAtCompany: "May 2017 - present",
       techUsed: [
