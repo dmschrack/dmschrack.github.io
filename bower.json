@@ -1,9 +1,10 @@
 {
-  "name": "document-builder",
-  "version": "1.0",
+  "name": "resume-v2",
+  "version": "0.0.0",
   "authors": [
-    "Nathan Harris <nharris@cedarville.edu>"
+    "Nathan Harris <nate@natepharris.me>"
   ],
+  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
@@ -13,9 +14,8 @@
   ],
   "dependencies": {
     "bootstrap": "~3.3.6",
-    "fontawesome": "~4.6.0",
-    "chartist": "~0.9.8",
-    "chartist-plugin-pointlabels": "https://github.com/n8harris/chartist-plugin-pointlabels.git#6e191a4cc4cd8dcaa7840418b03cee9941d66b91",
-    "chartist-plugin-axistitle": "~0.0.1"
+    "angular-1.5.5": "~1.5.5",
+    "font-awesome": "~4.7.0",
+    "requirejs": "~2.3.3"
   }
 }
