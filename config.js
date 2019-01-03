@@ -1,7 +1,7 @@
 var config = {
   resumeImageSrc: "https://avatars3.githubusercontent.com/u/4176190?v=3&s=460",
-  resumeOwner: "Nate Harris",
-  occupation: "Full-stack Web Developer",
+  resumeOwner: "Darren Schrack",
+  occupation: "Product Owner",
   location: "Colorado Springs, CO",
   education: {
     schoolLogo: "http://gdurl.com/gQTo",

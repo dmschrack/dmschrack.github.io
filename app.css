@@ -124,7 +124,7 @@ a[href]:after {
 }
 
 .left-col .name-info {
-  background: #4AA8A1 !important;
+  background: #000 !important;
   -webkit-print-color-adjust: exact;
   padding: 3vw;
 }
@@ -176,7 +176,7 @@ a[href]:after {
 }
 
 .left-col .sub-info .sub-section a {
-  color: #afdcd9 !important;
+  color: #fff !important;
 }
 
 .left-col .sub-info .sub-section a:hover {
@@ -352,7 +352,7 @@ a[href]:after {
 }
 
 .tech-tag {
-  background: #4aa8a1 !important;
+  background: #000 !important;
   color: #fff !important;
   border-radius: 7px;
   /*-webkit-box-shadow: 0px 9px 0px -2px rgba(60,134,128,1) !important;
